@@ -3,20 +3,12 @@
 A simple and responsive e-commerce shopping cart application built using React, Vite, and Context API.
 Users can browse products, search items, add them to the cart, update quantities, and view the cart subtotal.
 
-🛍️ Product listing with images and categories
+Frontend: React (with Vite)
 
-🔍 Search products by name
+State Management: React Context API
 
-➕ Add products to cart
+Routing: React Router DOM
 
-➖ Increase / decrease product quantity
+Notifications: React Toastify
 
-🗑️ Remove items from cart
-
-🧮 Automatic cart subtotal calculation
-
-🛒 Cart item count badge (Amazon-style)
-
-🔔 Toast notifications for user actions
-
-📱 Fully responsive design
+Styling: Inline CSS (Flexbox & CSS Grid)
