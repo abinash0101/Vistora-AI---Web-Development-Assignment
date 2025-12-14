@@ -15,4 +15,10 @@ Styling: Inline CSS (Flexbox & CSS Grid)
 
 
 How to Run the Project:
-git clone https://github.com/abinash0101/Vistora-AI---Web-Development-Assignment.git
+1:git clone https://github.com/abinash0101/Vistora-AI---Web-Development-Assignment.git
+2:cd Vistora-AI---Web-Development-Assignment
+3:npm install
+4:npm run dev
+
+
+
