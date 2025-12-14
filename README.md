@@ -1,0 +1,4 @@
+🛒 React Shopping Cart Application
+
+A simple and responsive e-commerce shopping cart application built using React, Vite, and Context API.
+Users can browse products, search items, add them to the cart, update quantities, and view the cart subtotal.
