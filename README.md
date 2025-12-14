@@ -12,3 +12,7 @@ Routing: React Router DOM
 Notifications: React Toastify
 
 Styling: Inline CSS (Flexbox & CSS Grid)
+
+
+How to Run the Project:
+git clone https://github.com/abinash0101/Vistora-AI---Web-Development-Assignment.git
