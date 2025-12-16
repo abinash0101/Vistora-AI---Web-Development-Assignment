@@ -46,7 +46,7 @@ function Header() {
                     }}
                 />
 
-                {/* Cart Icon → Link */}
+
                 <Link to="/cart" style={{ textDecoration: "none", color: "inherit" }}>
                     <div style={{ position: "relative", cursor: "pointer" }}>
                         <span style={{ fontSize: "24px" }}>🛒</span>
